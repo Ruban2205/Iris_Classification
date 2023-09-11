@@ -25,3 +25,28 @@
 [twitter-shield]: https://img.shields.io/badge/X.com%20(Twitter)%20-black.svg?style=for-the-badge&logo=X&colorB=555
 [twitter-url]: https://x.com/Rubangino
 [product-screenshot]: images/screenshot.png
+
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/Ruban2205/Iris_Classification/">
+    <img src="assets/logo.jpg" alt="Logo" width="160" height="80">
+  </a>
+
+  <h3 align="center">Iris-Classification</h3>
+
+  <p align="center">
+    An Iris Classification project built with comparision of four different Machine Learning models
+    <br />
+    <a href="https://github.com/Ruban2205/Iris_Classification"><strong>Explore the project »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/Ruban2205/Iris_Classification">View Demo</a>
+    ·
+    <a href="https://github.com/Ruban2205/Iris_Classification/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/Ruban2205/Iris_Classification/issues">Request Feature</a>
+  </p>
+</div>
+
