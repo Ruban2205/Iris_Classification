@@ -91,9 +91,7 @@
 <!--Built with Section--> 
 ## Built With
 
-...
-Content here...
-...
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/Ruban2205)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
