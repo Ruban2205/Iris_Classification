@@ -27,7 +27,6 @@
 [linkedin-url]: https://linkedin.com/in/ruban-gino-singh
 [twitter-shield]: https://img.shields.io/badge/X.com%20(Twitter)%20-black.svg?style=for-the-badge&logo=X&colorB=555
 [twitter-url]: https://x.com/Rubangino
-[product-screenshot]: images/screenshot.png
 
 
 <!-- PROJECT LOGO -->
@@ -82,7 +81,7 @@
 <!-- About the project-->
 ## About the Project 
 
-![Iris_Classification_Product_Screenshot](./assets/output2.jpg)
+![Iris_Classification_Product_Screenshot](assets/output2.jpg)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
