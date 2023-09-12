@@ -60,7 +60,7 @@
       <a href="#about-the-project-">About The Project</a>
       <ul>
         <li><a href="#project-workflow-">Project Workflow</a></li>
-        <li><a href="#built-with-">Built With</a></li>
+        <li><a href="#built-with-%EF%B8%8F">Built With</a></li>
       </ul>
     </li>
     <li>
@@ -74,7 +74,7 @@
     <li><a href="#contributing-">Contributing</a></li>
     <li><a href="#license-">License</a></li>
     <li><a href="#acknowledgements-">Acknowledgments</a></li>
-    <li><a href="#contact-">Contact</a></li>
+    <li><a href="#contact-%EF%B8%8F">Contact</a></li>
   </ol>
 </details>
 
