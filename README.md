@@ -1,3 +1,6 @@
+<!-- To Bring back the link to top--> 
+<a name="readme-top"></a>
+
 # Iris Classification 
 
 [![Contributors][contributors-shield]][contributors-url]
@@ -50,3 +53,131 @@
   </p>
 </div>
 
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
+
+<!-- About the project-->
+## About the Project 
+
+...
+Contents here... 
+...
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!--Built with Section--> 
+## Built With
+
+...
+Content here...
+...
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!--Getting Started Section--> 
+## Getting Started
+
+...
+Getting Started Content...
+...
+
+### Prerequisites
+
+...
+(Add python) 
+... 
+
+### Installation
+
+...
+Installation steps here...
+...
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!--Usage-->
+## Usage
+
+...
+usage instructions here...
+...
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!--Contribution-->
+## Contribution
+
+...
+how to contribute...
+...
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!--Licence-->
+## Licence
+
+...
+about Licence...
+...
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!--Acknowledgements-->
+## Acknowledgements
+
+...
+About acknowledgement... 
+...
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!--Contact-->
+## Contact
+
+...
+About Contact information...
+...
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+### Star ⭐ Some Of My Repositories for Future use 😉
+
+Click below to gift a book to me.
+
+[![BuyMeABook](https://img.shields.io/badge/Buy%20Me%20a%20Book-ffdd00?style=for-the-badge&logo=buy-me-a-book&logoColor=black)
+](https://bit.ly/3M5jxLd)
+
+**Thank You!!**
+
+<hr/>
