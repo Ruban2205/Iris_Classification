@@ -27,7 +27,6 @@
 [linkedin-url]: https://linkedin.com/in/ruban-gino-singh
 [twitter-shield]: https://img.shields.io/badge/X.com%20(Twitter)%20-black.svg?style=for-the-badge&logo=X&colorB=555
 [twitter-url]: https://x.com/Rubangino
-[product-screenshot]: images/screenshot.png
 
 
 <!-- PROJECT LOGO -->
@@ -61,6 +60,7 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
+        <li><a href="#project-workflow">Project Workflow</a></li>
       </ul>
     </li>
     <li>
@@ -71,9 +71,9 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#contribution">Contributing</a></li>
+    <li><a href="#licence">License</a></li>
+    <li><a href="#acknowledgements">Acknowledgments</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -81,9 +81,7 @@
 <!-- About the project-->
 ## About the Project 
 
-...
-Contents here... 
-...
+![Iris_Classification_Product_Screenshot](assets/output2.jpg)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -92,8 +90,14 @@ Contents here...
 <!--Built with Section--> 
 ## Built With
 
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/Ruban2205)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Project Workflow
+
 ...
-Content here...
+Project Workflow structure...
 ...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
