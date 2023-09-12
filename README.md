@@ -81,7 +81,7 @@
 <!-- About the project-->
 ## About the Project 
 
-![Iris_Classification_Product_Screenshot](assets/output2.jpg)
+[![Iris_Classification_Product_Screenshot](assets/output2.jpg)](https://github.com/Ruban2205/Iris_Classification/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
