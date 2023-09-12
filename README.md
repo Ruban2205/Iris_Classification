@@ -81,7 +81,7 @@
 <!-- About the project-->
 ## About the Project 💻
 
-[![Iris_Classification_Product_Screenshot](assets/output2.jpg)](https://github.com/Ruban2205/Iris_Classification/assets/output2.jpg)
+[![Iris_Classification_Product_Screenshot](assets/output2.jpg)](https://github.com/Ruban2205/Iris_Classification/blob/main/assets/output2.jpg)
 
 The Iris Classification Machine Learning Project is a thorough investigation of machine learning methods used to classify iris blossoms into several species according to their morphological traits. This project includes the collection of data, data preprocessing, feature scaling, model training, model assessment, and finally the creation and implementation of an intuitive interface using Streamlit.
 
