@@ -72,9 +72,9 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#contribution">Contributing</a></li>
+    <li><a href="#licence">License</a></li>
+    <li><a href="#acknowledgements">Acknowledgments</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -82,9 +82,7 @@
 <!-- About the project-->
 ## About the Project 
 
-...
-Contents here... 
-...
+![Iris_Classification_Product_Screenshot](./assets/output2.jpg)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -95,6 +93,14 @@ Contents here...
 
 ...
 Content here...
+...
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Project Workflow
+
+...
+Project Workflow structure...
 ...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
