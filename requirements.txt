@@ -3,4 +3,4 @@ numpy
 pandas
 scipy
 seaborn
-sklearn
+scikit-learn==0.19.0
