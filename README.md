@@ -41,10 +41,10 @@
   <p align="center">
     An Iris Classification project built with comparision of four different Machine Learning models
     <br />
-    <a href="https://github.com/Ruban2205/Iris_Classification"><strong>Explore the project »</strong></a>
+    <a href="https://github.com/Ruban2205/Iris_Classification/blob/main/iris_classification_main.ipynb"><strong>Explore the project »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Ruban2205/Iris_Classification">View Demo</a>
+    <a href="https://irisclassifier.streamlit.app/">View Demo</a>
     ·
     <a href="https://github.com/Ruban2205/Iris_Classification/issues">Report Bug</a>
     ·
@@ -81,9 +81,9 @@
 <!-- About the project-->
 ## About the Project 💻
 
-[![Iris_Classification_Product_Screenshot](assets/output2.jpg)](https://github.com/Ruban2205/Iris_Classification/blob/main/assets/output2.jpg)
+[![Iris_Classification_Product_Screenshot](assets/output2.jpg)](https://irisclassifier.streamlit.app/)
 
-The Iris Classification Machine Learning Project is a thorough investigation of machine learning methods used to classify iris blossoms into several species according to their morphological traits. This project includes the collection of data, data preprocessing, feature scaling, model training, model assessment, and finally the creation and implementation of an intuitive interface using Streamlit.
+The Iris Classification Machine Learning Project is a thorough investigation of multi-modal machine learning methods used to classify iris blossoms into several species according to their morphological traits. This project includes the collection of data, data preprocessing, feature scaling, model training, model assessment, and finally the creation and implementation of an intuitive interface using Streamlit.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -198,7 +198,7 @@ This repository is licenced under the [MIT LICENSE](/LICENSE). You are free to u
 
 I want to express my appreciation to the people who created the [Iris dataset](https://www.kaggle.com/datasets/uciml/iris) and the larger machine learning and data science community for their insightful contributions.
 
-You may learn more about the principles of machine learning, the use of models, and the actual applications of AI in the categorization of issues by investigating and participating in our Iris categorization Machine Learning Project.
+You may learn more about the principles of machine learning, the use of models, and the actual applications of AI in the categorization of issues by investigating and participating in my Iris categorization Machine Learning Project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -206,13 +206,14 @@ You may learn more about the principles of machine learning, the use of models, 
 <!--Contact-->
 ## Contact ☎️
 
-For any questions or inquiries, please contact the project owner: 
+For any questions or inquiries, please feel free to approach me through the following channels: 
 
 - Ruban [info@rubangino.in](https://mailto:info@rubangino.in/)
 
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rubangino.in/)
 [![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@rubangino.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruban-gino-singh/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/rubanginosingh)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://rubangino.hashnode.dev/)
 
 Feel free to report any issues or suggest improvements by creating an issue in the GitHub repository.
